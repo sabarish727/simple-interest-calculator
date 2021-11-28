@@ -1,3 +1,4 @@
+
 function compute()
 {
     if(principal.value < 1){
