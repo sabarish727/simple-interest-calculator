@@ -1,7 +1,7 @@
 function compute()
 {
     if(principal.value < 1){
-        alert("Amount has to be a positive number")
+        alert("Amount has to be a positive quantity")
         principal.focus()
         return
     }
